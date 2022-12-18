@@ -1,5 +1,5 @@
  # Sergey Vetluzhskikh
- ![my photo](./img/photo.jpeg)
+ ![my photo](./assets/img/photo.jpeg)
 ---
 | My contacts
 ---
